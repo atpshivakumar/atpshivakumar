@@ -70,12 +70,6 @@ environments.
 
 ## 📊 GitHub
 
-<p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" width="420">
-
-</p>
-
 <br>
 
 ## 🌐 Connect
