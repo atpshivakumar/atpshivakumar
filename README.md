@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Shiva Kumar 👋
 
 ### Python Developer · DevOps Engineer · Cloud Automation
@@ -97,6 +96,4 @@ environments.
 
 <sub>👁️ Profile views</sub>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=&color=58a6ff&style=flat-square">
-
-```
+<img src="https://komarev.com/ghpvc/?username=atpshivakumar&label=&color=58a6ff&style=flat-square">
